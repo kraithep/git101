@@ -1,0 +1,1 @@
+the most message? จำนวน Category ที่มีข้อความมากที่สุด? การแสดงผลในรูปแบบ Composition ว่าสัดส่วนจาก Category ที่เราได้สร้างไว้โดยวัดจาก Message ข้อความ มีคนพูดถึงแบ่งออกมาเป็นจำนวนเท่าไหร่ % ดีหวะ Message analysis form WS Kirin 4. Engagement การมีส่วนร่วม / Category , Image , Channel วัดจาก
