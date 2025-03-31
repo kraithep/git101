@@ -1,0 +1,1 @@
+Engagment ที่เข้ามาในระบบ จากข้อ 3 ที่วัดจาก Message ข้อความแล้ว อันนี้ขยายความวัดจาก engagement เช่น Which Category has the highest engagment? วัด Category หมวดไหน ที่มีส่วนร่วมการเข้าถึงมากที่สุด engagement? คำตอบ จะได้มาแบบการแบ่งสัดส่วน Composition แล้วก็แสดง Chart แบบย่อย ๆ พร้อม Chart Trend

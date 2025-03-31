@@ -1,0 +1,1 @@
+เข้ามาช่วยวิเคราะห์ข้อมูลจาก Social Listening ที่ทาง Wisesight ทุ่มเงินพัฒนา KIRIN ENGINE จนสามารถวิเคราะห์ข้อมูลจาก Soical Data ที่เกิดขึ้นไม่ว่าจะเป็นการตรวจสอบ Logo,Demographic,Suggestion โครตเจ๋งเลย วันนี้เราจะมาลองใช้งานกัน กับ Insight ที่วิเคราะห์โดย KIRIN Engine Table of Contents Toggle
